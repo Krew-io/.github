@@ -13,6 +13,7 @@
 <p align="center">
     <a href="https://krew.io">Krew.io</a> is a 3D online browser game revolving around pirating in the seas. Players can fight other krews, trade goods from island to island, and form alliances with some of the most powerful clans in the game. With over 70 concurrent players, it still remains, to this day, a sight to behold with one's friends as they journey among the seven seas.
 </p>
+<br />
 
 ## Developers
  - [DamienVesper](https://github.com/DamienVesper)
