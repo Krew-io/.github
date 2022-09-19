@@ -17,4 +17,3 @@
 
 ## Developers
  - [DamienVesper](https://github.com/DamienVesper)
- - [ITSDABOMB](https://github.com/Itsdabombgit)
